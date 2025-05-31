@@ -1,5 +1,5 @@
 //Estructura de BD no relacional proyecto MONGODB
-jfjkasnhd,andakndkandkandand,andasn
+use Conecta_Futuro_MongoDB
 //Estructura de los registros
 
 //1- Usuarios colección
